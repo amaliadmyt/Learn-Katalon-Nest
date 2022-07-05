@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02-Praktik If Else</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9ebc9b5d-5657-4e37-b003-5e60b921f5aa</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>543d37d8-d8c2-4807-b132-9d09631e8801</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3fe26fd-2573-454d-aa7e-39bdd8600262</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>543d37d8-d8c2-4807-b132-9d09631e8801</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'pointofsale'</defaultValue>
+      <description></description>
+      <id>b3fe26fd-2573-454d-aa7e-39bdd8600262</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

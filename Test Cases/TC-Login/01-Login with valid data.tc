@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-Login with valid data</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9730faf4-880d-4644-98a4-060582f46f55</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d1ad3774-8df7-4a3e-a2e6-e6c84a78e317</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fe516fd1-d202-4040-b85e-e3aabb939c60</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>d1ad3774-8df7-4a3e-a2e6-e6c84a78e317</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'pointofsale'</defaultValue>
+      <description></description>
+      <id>fe516fd1-d202-4040-b85e-e3aabb939c60</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
